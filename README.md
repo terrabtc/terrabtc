@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on this project terrabtc, 
+- 🔭 I’m currently working on this project, 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# TerraBTC project
+# TerraBTC Protocol and TerraBTC Core Project
 
-TerraBTC is a lightweight opensource project to store the true first minecraft virtual world fully on bitcoin blockchain, not as layer 2 but writing all world blocks as bitcoin transactions.
+TerraBTC Core is a lightweight opensource project to store the true first minecraft virtual world fully on bitcoin blockchain, not as layer 2 but writing all world blocks as bitcoin transactions.
 All the details of the protocol will be described in the whitepaper and it will all be mathematically programmed, just like bitcoin.
-A signature digest will be created for each version of the protocol.
+A Hex Id will be created for each version of the protocol, always inheriting all the properties of the genesis version "TB0001".
 
 ## Development resources
 
@@ -26,6 +26,7 @@ A signature digest will be created for each version of the protocol.
 - GitHub: [https://github.com/terrabtc/terrabtc](https://github.com/terrabtc/terrabtc)
 - Twitter: [@TerraBTC](https://twitter.com/TerraBTC)
 
-🔭 We are currently working on TerraBTC project
+🔭 We are currently working on TerraBTC Core Project!
+🔭 A Live Map Explorer of TerraBTC Protocol will be release soon!
 
 💬 You can follow the all updates on Twitter: [@TerraBTC](https://twitter.com/TerraBTC)
